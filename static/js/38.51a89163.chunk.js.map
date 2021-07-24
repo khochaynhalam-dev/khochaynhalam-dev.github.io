@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/product/create/index.js"],"names":["ProductList"],"mappings":"oJAAA,OAKeA,UALK,WAChB,MACI","file":"static/js/38.51a89163.chunk.js","sourcesContent":["const ProductList = () => {\r\n    return (\r\n        ''\r\n    )\r\n}\r\nexport default ProductList"],"sourceRoot":""}
